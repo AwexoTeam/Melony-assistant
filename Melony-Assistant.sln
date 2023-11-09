@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melony-Assistant", "Melony-Assistant\Melony-Assistant.csproj", "{6547A94E-F6D9-4EFE-BE0E-9648FBB1A930}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Melony-Assistant", "Melony-Assistant\Melony-Assistant.csproj", "{6547A94E-F6D9-4EFE-BE0E-9648FBB1A930}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telepathy", "..\..\..\source\repos\Melony\Telepathy\Telepathy\Telepathy.csproj", "{2EFDEA75-E357-4ED9-A3EF-8D6716EFA842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelonyLovense", "MelonyLovense\MelonyLovense.csproj", "{499AB1A5-02EA-498E-8EEE-99BE789BD27B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6547A94E-F6D9-4EFE-BE0E-9648FBB1A930}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6547A94E-F6D9-4EFE-BE0E-9648FBB1A930}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6547A94E-F6D9-4EFE-BE0E-9648FBB1A930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFDEA75-E357-4ED9-A3EF-8D6716EFA842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFDEA75-E357-4ED9-A3EF-8D6716EFA842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFDEA75-E357-4ED9-A3EF-8D6716EFA842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFDEA75-E357-4ED9-A3EF-8D6716EFA842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499AB1A5-02EA-498E-8EEE-99BE789BD27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499AB1A5-02EA-498E-8EEE-99BE789BD27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499AB1A5-02EA-498E-8EEE-99BE789BD27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499AB1A5-02EA-498E-8EEE-99BE789BD27B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
