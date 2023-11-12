@@ -17,6 +17,7 @@ namespace MelonyLovense
 
         public Form1()
         {
+
             InitializeComponent();
         }
 

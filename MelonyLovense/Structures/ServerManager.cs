@@ -47,7 +47,7 @@ public static class ServerManager
         if (timeStamp == DateTime.MinValue)
         {
             client = new Client(999);
-            client.Connect("localhost", 30040);
+            client.Connect("116.202.133.194", 30040);
             client.OnData += OnRecieved;
             client.OnConnected += OnConnected;
             timeStamp = DateTime.Now;
